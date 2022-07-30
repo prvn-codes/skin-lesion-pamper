@@ -67,6 +67,6 @@ Now the the Sequential CNN Model with Flatten,Dense,Dropout,BatchNormalization,C
 _________________________________________________________________
 
 The model is evaluated using recall. After 25 epochs, each of 110 steps, the model is evaluated as follows
-
+ 
 <p align="center">Model Progress</p>
 <img src='./Visualization/evaluation_metrics.png' width = 100% title="Model Progress" />
