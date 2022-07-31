@@ -2,7 +2,7 @@
 
  Developed in Python using keras library, and classified skin lesions using the CNN, trained end-to-end from images directly, using only pixels values.
 
-Just create a venv and pip install the `REQUIREMENTS.txt` file.
+Just create a venv and pip install the `REQUIREMENTS.txt` file and run the python notebook in the environment.
 
 [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?select=HAM10000_images_part_2) a large collection of multi-source dermatoscopic images of pigmented lesions is available in Kaggle. The  required datasets is directly downloaded into workspace using `wget`. With this two data file we built a sequential CNN model using [tf.keras.Sequential](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
 
